@@ -1,0 +1,2 @@
+# kydanza
+Uzbek Developer
